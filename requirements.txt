@@ -1,0 +1,4 @@
+cffi==1.14.5
+cryptography==3.4.7
+Pillow==8.2.0
+pycparser==2.20
